@@ -9,7 +9,8 @@ body{
     display: flex;
     justify-content: center;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9) , rgba(0, 0, 0, 0.5)),url("/backgroubd.jpg");
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.9) , rgba(0, 0, 0, 0.5)),url("/backgroubd.jpg"); */
+    background-color: #000;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
