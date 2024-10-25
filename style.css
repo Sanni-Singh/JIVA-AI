@@ -16,9 +16,9 @@ body{
     background-size: cover;
     font-family: "Permanent Marker", cursive;
 
-    @media screen and (max-width:500px) {
+    /* @media screen and (max-width:500px) {
         align-items: center;
-    }
+    } */
 }
 .container{
     margin-top:50px ;
